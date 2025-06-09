@@ -26,3 +26,13 @@
     grid-template-columns: minmax(30ch, auto) 1fr;
   }
 }
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  padding-left: 5px;
+  padding-right: 5px
+}
